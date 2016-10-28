@@ -1,0 +1,19 @@
+{
+  "name": "debuggable",
+  "version": "0.0.1",
+  "description": "Adds logging functions to an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "console",
+    "debug"
+  ],
+  "author": "Khalid Hoffman",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "lodash": "^4.16.4"
+  }
+}
